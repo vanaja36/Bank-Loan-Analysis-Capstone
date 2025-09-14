@@ -19,7 +19,7 @@ This capstone project provides an in-depth analysis of a bank's loan portfolio, 
 
 ### 1. Summary Dashboard
 
-![Summary Dashboard](images/bank_loan_report_summary.png)
+![Summary Dashboard](https://github.com/vanaja36/Bank-Loan-Analysis-Capstone/blob/main/Bank%20loan%20report%20summary.png)
 
 *Overview of total loan applications, funded amounts, repayments, average interest rates, and debt-to-income ratios.*
 
