@@ -63,19 +63,3 @@ This capstone project provides an in-depth analysis of a bank's loan portfolio, 
 
 ---
 
-## 🔗 Additional Resources
-
-- **Power BI / Tableau Dashboards:** [Link to interactive dashboards] *(optional extension)*
-
----
-
-## 📬 Contact
-
-For any questions or further information, please reach out to [Your Name] at [Your Email].
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
