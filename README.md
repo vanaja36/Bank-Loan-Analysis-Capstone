@@ -39,7 +39,7 @@ This capstone project provides an in-depth analysis of a bank's loan portfolio, 
 
 ### 4. Excel Dashboard
 
-![Excel Dashboard](images/excel_dashboard.png)
+![Excel Dashboard](https://github.com/vanaja36/Bank-Loan-Analysis-Capstone/blob/main/excel%20dashboard.png)
 
 *Interactive Excel dashboard showcasing KPIs, trends, and key loan metrics for quick business insights.*
 
