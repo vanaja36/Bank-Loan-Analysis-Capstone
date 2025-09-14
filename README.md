@@ -25,7 +25,7 @@ This capstone project provides an in-depth analysis of a bank's loan portfolio, 
 
 ### 2. Overview Dashboard
 
-![Overview Dashboard](images/bank_loan_report_overview.png)
+![Overview Dashboard](https://github.com/vanaja36/Bank-Loan-Analysis-Capstone/blob/main/Bank%20loan%20report%20overview.png)
 
 *Visual representation of monthly trends, regional analysis, loan term distribution, employment length, loan purpose breakdown, and home ownership distribution.*
 
