@@ -31,7 +31,7 @@ This capstone project provides an in-depth analysis of a bank's loan portfolio, 
 
 ### 3. Details Dashboard
 
-![Details Dashboard](images/bank_loan_report_details.png)
+![Details Dashboard](https://github.com/vanaja36/Bank-Loan-Analysis-Capstone/blob/main/Bank%20loan%20reort%20details.png)
 
 *Detailed view of loan status, borrower profiles, and performance metrics.*
 
